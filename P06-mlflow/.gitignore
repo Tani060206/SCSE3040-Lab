@@ -1,0 +1,4 @@
+﻿.ipynb_checkpoints/
+mlruns/
+work/
+__pycache__/
